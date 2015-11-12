@@ -7,6 +7,8 @@ Nov 9-11 2015, Vietri sul Mare, Italy
 Implemented By Martin de La Gorce , novembre 2015
 Ecole des Ponts et Chaussees
 
+Warning: this is not the implementation that has been used to fo the experiment in the original paper. The results in the paper have been obtain using a C++ implementation that relies on [ IBEX](http://www.ibex-lib.org/)
+
 #Installation
 The code should run without the need to install dependencies. It uses numpy and matlplotlib.
 You can run the line fitting example using from the command line 
