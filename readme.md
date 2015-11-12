@@ -7,13 +7,12 @@ Nov 9-11 2015, Vietri sul Mare, Italy
 Implemented By Martin de La Gorce , novembre 2015
 Ecole des Ponts et Chaussees
 
-#installation
+#Installation
 The code should run without the need of installing dependencies. It uses numpy and matlplotlib.
-you can lanch the line fitting example using from the command line 
+You can run the line fitting example using from the command line 
 using *python lineFitting.py*
 
 Point: 
 
 
 Image of the search space:
-
