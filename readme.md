@@ -8,7 +8,7 @@ Implemented By Martin de La Gorce , novembre 2015
 Ecole des Ponts et Chaussees
 
 #Installation
-The code should run without the need of installing dependencies. It uses numpy and matlplotlib.
+The code should run without the need to install dependencies. It uses numpy and matlplotlib.
 You can run the line fitting example using from the command line 
 using *python lineFitting.py*
 
