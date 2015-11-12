@@ -23,4 +23,4 @@ Points:
 
 Image of the search space after convergence:
 ![image62.png](https://bitbucket.org/repo/dEgXGz/images/3579631749-image62.png)
-green rectangle either contain a solution or a too small to be refined
+green rectangles either contain a solution or a too small to be refined
