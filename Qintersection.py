@@ -18,14 +18,15 @@ import os
 
 class Report():
     """small class to handle export to images with automatic increment of the image id"""
-    def __init__(self,folder):
+    def __init__(self,folder,format='svg'):
         self.idimage=0
         self.folder=folder
         if not os.path.isdir(folder):
             os.mkdir(folder)
+        self.format=format
     def saveFig(self,ax):
        
-        ax.figure.savefig(os.path.join(self.folder,'image%d.svg'%self.idimage))        
+        ax.figure.savefig(os.path.join(self.folder,'image%d.%s'%(self.idimage,self.format)))        
         self.idimage+=1        
 
 

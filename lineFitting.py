@@ -99,9 +99,9 @@ def exampleLineFitting():
     nbOutliers=7
     tolerance=0.01
     epsilon=0.05 # size of the boxes that we consider small enough 
-    report=Report('./generated_images/')# set to None if you do not want to save images
+    report=Report('./generated_images/',format='svg')# set to None if you do not want to save images
     #report=None
-    np.random.seed(2)
+    np.random.seed(14)
     x_inliers=np.random.rand(nbInliers)
     a=0.3
     b=0.4

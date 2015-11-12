@@ -1,3 +1,4 @@
 syntax: glob
 generated_images/*.svg
+generated_images/*.png
 *.pyc
