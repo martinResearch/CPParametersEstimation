@@ -7,7 +7,7 @@ Nov 9-11 2015, Vietri sul Mare, Italy
 Implemented By Martin de La Gorce , novembre 2015
 Ecole des Ponts et Chaussees
 
-**Warning: this is not the implementation that has been used to fo the experiment in the original paper. The results in the paper have been obtain using a C++ implementation that relies on [ IBEX](http://www.ibex-lib.org/)**
+**Warning: this is not the implementation that has been used to do the experiments in the original paper. The results in the paper have been obtained using a C++ implementation that relies on [ IBEX](http://www.ibex-lib.org/)**
 
 #Installation
 The code should run without the need to install dependencies. It uses numpy and matlplotlib.
@@ -16,7 +16,7 @@ using *python lineFitting.py*
 
 # Example
 
-We look for the paramters *a* and *b* such that 
+We look for the parameters *a* and *b* such that 
 |ax+b-y|<tolerance for at least three points (Q=3)
 with tolerance=0.01
 
