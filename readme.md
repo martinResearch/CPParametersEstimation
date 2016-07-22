@@ -11,7 +11,7 @@ Ecole des Ponts et Chaussees
 
 #Installation
 The code should run without the need to install dependencies. It uses numpy and matlplotlib.
-You can run the line fitting example using from the command line 
+You can run the line fitting example from the command line 
 using *python lineFitting.py*
 
 # Example
