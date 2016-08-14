@@ -21,8 +21,11 @@ We look for the parameters *a* and *b* such that
 with tolerance=0.01
 
 Points: 
+
 ![image0.png](https://bitbucket.org/repo/dEgXGz/images/274169658-image0.png)
 
 Image of the search space after convergence:
+
 ![image62.png](https://bitbucket.org/repo/dEgXGz/images/3579631749-image62.png)
+
 green rectangles either contain a solution or are too small to be refined
