@@ -9,7 +9,7 @@ Ecole des Ponts et Chaussees
 
 **Warning: this is not the implementation that has been used to do the experiments in the original paper. The results in the paper have been obtained using a C++ implementation that relies on [ IBEX](http://www.ibex-lib.org/)**
 
-#Installation
+# Installation
 The code should run without the need to install dependencies. It uses numpy and matlplotlib.
 You can run the line fitting example from the command line 
 using *python lineFitting.py*
